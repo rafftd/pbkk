@@ -11,7 +11,7 @@
 | 9  | Comparison Mode         | Bandingkan 2 CV berbeda          | Upload CV A & CV B                        | Sistem menampilkan perbandingan skor                   | Pass / Fail     |
 | 10 | Skill Recommendation    | Cek saran skill                  | Upload CV > analisis skill                | Sistem menampilkan rekomendasi kursus/skill            | Pass / Fail       |
 | 11 | CV Template             | Generate template                | Pilih template > isi data                 | CV baru dihasilkan sesuai template                     | Pass / Fail       |
-| 12 | Admin – Jobdesc Mgmt    | Tambah jobdesc baru              | Admin isi form > simpan                   | Jobdesc tersimpan & bisa dipakai user                  | Pass / Fail      |
+| 12 | Admin – Jobdesc     | Tambah jobdesc baru              | Admin isi form > simpan                   | Jobdesc tersimpan & bisa dipakai user                  | Pass / Fail      |
 | 13 | Admin – Monitoring      | Cek analytics                    | Admin buka menu analytics                 | Statistik jumlah user & upload muncul                  | Pass / Fail      |
 | 14 | Paket Premium           | Gagal bayar Premium                   | Klik "Pesan Sekarang" > cancel/invalid pay   | Transaksi gagal, pesan error muncul, paket tidak aktif | Pass / Fail      |
 | 15 | Paket Roating           | Pilih paket Roating & bayar sukses    | Klik "Pesan Sekarang" > proses pembayaran    | Fitur Roating aktif + invoice/payment success muncul   | Pass / Fail      |
